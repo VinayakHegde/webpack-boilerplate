@@ -1,0 +1,12 @@
+$body-color: #333;
+
+body {
+  color: $body-color;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  height: 100vh;
+  widows: 100vw;
+  flex-direction: column;
+  overflow: hidden;
+}
