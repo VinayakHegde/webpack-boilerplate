@@ -3,6 +3,8 @@
 
 A lightweight foundation for your webpack based frontend apps using Reusable Web Components (Custom Elements)
 
+[Demo](https://vinayakhegde.github.io/webpack-boilerplate/)
+
 ### Installation
 
 ```
